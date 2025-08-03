@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "bc09d4e14ac21df89584af79",
+    "title": "Sửa máy tính",
+    "description": "Hỏng nguồn",
+    "priority": "high",
+    "category": "",
+    "dueDate": "2025-08-04",
+    "tags": [],
+    "user": "2f1d103b00e94529d9d4d2b0",
+    "completed": false,
+    "createdAt": "2025-08-03T11:43:22.519Z",
+    "updatedAt": "2025-08-03T11:43:22.519Z"
+  }
+]

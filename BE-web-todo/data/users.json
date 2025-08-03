@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "9c5e8407c6762bb162bd3074",
+    "username": "hoang",
+    "email": "minhhoangnh6@gmail.com",
+    "password": "$2a$12$yWAcvW8VO1uDaCrTrsAk4uxH0CXJj9JyvFLjYpsTTY3eGe7uVNZdO",
+    "fullName": "Ngô Minh Hoàng",
+    "createdAt": "2025-08-03T10:30:08.036Z",
+    "updatedAt": "2025-08-03T10:30:08.037Z",
+    "isActive": true
+  },
+  {
+    "_id": "2f1d103b00e94529d9d4d2b0",
+    "username": "tranminhquang",
+    "email": "tranminhquang@gmail.com",
+    "password": "$2a$12$VJnCj5/IjAKp2xwzi2y/p.GYlDFvgIlKvTMnnPxoIeUfOjX2bRaeO",
+    "fullName": "Trần Minh Quang",
+    "createdAt": "2025-08-03T11:19:13.799Z",
+    "updatedAt": "2025-08-03T11:19:13.799Z",
+    "isActive": true
+  }
+]
