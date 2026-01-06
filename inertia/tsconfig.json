@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2016",                                  /* Set the JavaScript standard for code output and library declarations */
+    "module": "commonjs",                                /* Select a JavaScript module system for the project. */
+    "sourceMap": true,                                   /* Include source maps with code output. */
+    "esModuleInterop": true,                             /* Enable support for CommonJS module imports and the 'allowSyntheticDefaultImports' setting. */
+    "forceConsistentCasingInFileNames": true,            /* Ensure correct letter casing in import declarations. */
+    "strict": true,                                      /* Enable strict type-checking options. */
+    "skipLibCheck": true,                                /* Skip type checks for .d.ts files. */
+    "outDir": "./dist",                                  /* Specify the compilation output directory. */
+  },
+  "include": [
+    "tests/**/*.ts"
+  ]
+} 

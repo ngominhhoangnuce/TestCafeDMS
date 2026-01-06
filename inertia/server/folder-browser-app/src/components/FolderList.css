@@ -1,0 +1,44 @@
+.folder-list-container {
+  max-width: 1000px;
+  margin: auto;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  padding: 10px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.folder-list-ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.folder-list-btn {
+  width: 100%;
+  text-align: left;
+  background: #f5f7fa;
+  border: none;
+  border-radius: 8px;
+  padding: 5px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background 0.2s;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.folder-list-btn:hover {
+  background: #e3e9f7;
+}
+
+.folder-list-btn-back {
+  background: #e3e9f7;
+  color: #3b4cca;
+  font-weight: 600;
+}
+
+.folder-list-icon {
+  font-size: 20px;
+}
